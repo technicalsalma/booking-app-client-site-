@@ -6,8 +6,8 @@ const List = () => {
     return (
         <div>
             <Navbar/>
-            <Header/>
-            type="list"
+            <Header type="list"/>
+            
         </div>
     );
 };
